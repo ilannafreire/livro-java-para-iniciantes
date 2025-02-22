@@ -4,6 +4,11 @@ Bem-vindo ao **Java para Iniciantes**! Este repositório traz um resumo divertid
 
 ---
 
+<p align="center">
+  <img src="https://imgv2-1-f.scribdassets.com/img/document/546115043/original/8d197bdafc/1685750131?v=1" width="300">
+</p>
+
+
 ## ✨ O que você vai aprender?
 
 ### ✅ Fundamentos da linguagem Java
@@ -24,7 +29,7 @@ Bem-vindo ao **Java para Iniciantes**! Este repositório traz um resumo divertid
 - Laços: `for`, `while`, `do-while` 🔧
 - Uso de `break` e `continue` para controle de fluxo 🔄
 
-###📝 Orientação a Objetos
+### 📝 Orientação a Objetos
 - Classes e objetos 🛠️
 - Encapsulamento, herança e polimorfismo 🔧
 - Sobrecarga de métodos e construtores 🎨
