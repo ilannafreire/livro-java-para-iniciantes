@@ -24,7 +24,7 @@ Bem-vindo ao **Java para Iniciantes**! Este repositório traz um resumo divertid
 - Laços: `for`, `while`, `do-while` 🔧
 - Uso de `break` e `continue` para controle de fluxo 🔄
 
-### 🧑‍♀️ Orientação a Objetos
+###📝 Orientação a Objetos
 - Classes e objetos 🛠️
 - Encapsulamento, herança e polimorfismo 🔧
 - Sobrecarga de métodos e construtores 🎨
